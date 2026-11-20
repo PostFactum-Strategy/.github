@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="100%">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#050505"/>
       <stop offset="50%" stop-color="#0A0A0A"/>
-      <stop offset="100%" stop-color="#020202"/>
+      <stop offset="100%" stop-color="#030303"/>
     </linearGradient>
     <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FF2200"/>
@@ -11,70 +11,70 @@
       <stop offset="100%" stop-color="#FFAA00"/>
     </linearGradient>
     <linearGradient id="cyberBorder" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF5500" stop-opacity="0.8"/>
+      <stop offset="0%" stop-color="#FF5500" stop-opacity="0.9"/>
       <stop offset="50%" stop-color="#222222" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#FF5500" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#FF5500" stop-opacity="0.9"/>
     </linearGradient>
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#121212" stroke-width="1"/>
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#141414" stroke-width="1"/>
     </pattern>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="320" fill="url(#bg)"/>
-  <rect width="1200" height="320" fill="url(#grid)" opacity="0.7"/>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.6"/>
 
   <!-- Outer Cyber Border -->
-  <rect x="15" y="15" width="1170" height="290" rx="8" fill="none" stroke="url(#cyberBorder)" stroke-width="1.5"/>
+  <rect x="15" y="15" width="1170" height="270" rx="6" fill="none" stroke="url(#cyberBorder)" stroke-width="1.5"/>
 
   <!-- Top Accent Bar -->
-  <line x1="15" y1="15" x2="250" y2="15" stroke="url(#orangeGrad)" stroke-width="3"/>
-  <line x1="950" y1="15" x2="1185" y2="15" stroke="url(#orangeGrad)" stroke-width="3"/>
+  <line x1="15" y1="15" x2="280" y2="15" stroke="url(#orangeGrad)" stroke-width="3"/>
+  <line x1="920" y1="15" x2="1185" y2="15" stroke="url(#orangeGrad)" stroke-width="3"/>
   
   <!-- Corner Tech Accents -->
   <path d="M 30 45 L 30 30 L 45 30" fill="none" stroke="#FF5500" stroke-width="2"/>
   <path d="M 1170 45 L 1170 30 L 1155 30" fill="none" stroke="#FF5500" stroke-width="2"/>
-  <path d="M 30 275 L 30 290 L 45 290" fill="none" stroke="#FF5500" stroke-width="2"/>
-  <path d="M 1170 275 L 1170 290 L 1155 290" fill="none" stroke="#FF5500" stroke-width="2"/>
+  <path d="M 30 255 L 30 270 L 45 270" fill="none" stroke="#FF5500" stroke-width="2"/>
+  <path d="M 1170 255 L 1170 270 L 1155 270" fill="none" stroke="#FF5500" stroke-width="2"/>
 
   <!-- System Badge -->
-  <g transform="translate(60, 48)">
-    <rect x="0" y="0" width="280" height="26" rx="4" fill="#111" stroke="#FF5500" stroke-width="1"/>
+  <g transform="translate(60, 45)">
+    <rect x="0" y="0" width="290" height="26" rx="4" fill="#111" stroke="#FF5500" stroke-width="1"/>
     <circle cx="15" cy="13" r="4" fill="#FF5500"/>
-    <text x="28" y="17" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#FF8800" font-weight="700" letter-spacing="1.5">СИСТЕМА: РЕЛЯТИВИЗМ // В СЕТИ</text>
+    <text x="28" y="17" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#FF8800" font-weight="700" letter-spacing="1.5">МАНИФЕСТ СВОБОДЫ // НАШИ ДАННЫЕ</text>
   </g>
 
   <!-- Title -->
-  <text x="60" y="140" font-family="system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="52" font-weight="900" fill="#FFFFFF" letter-spacing="3">
+  <text x="60" y="135" font-family="system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="52" font-weight="900" fill="#FFFFFF" letter-spacing="3">
     POSTFACTUM<tspan fill="url(#orangeGrad)">_</tspan>STRATEGY
   </text>
 
   <!-- Tagline -->
-  <text x="62" y="185" font-family="system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="700" fill="#FFAA00" letter-spacing="2">
-    АВТОНОМНЫЙ ИНТЕЛЛЕКТ ИГРЫ // УСИЛЕНИЕ ЧЕЛОВЕКА
+  <text x="62" y="180" font-family="system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="700" fill="#FFAA00" letter-spacing="2">
+    ВЕРНИТЕ ТО, ЧТО ПРИНАДЛЕЖИТ НАМ ПО ПРАВУ.
   </text>
 
   <!-- Subtitle Manifesto -->
-  <text x="62" y="225" font-family="system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#888888" letter-spacing="0.5">
-    Инженерия свободы против алгоритмического диктата и корпоративных монополий.
+  <text x="62" y="218" font-family="system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#888888" letter-spacing="0.5">
+    Против цифрового диктата, монополий и отнятой свободы информации.
   </text>
 
   <!-- Right side telemetry widget -->
-  <g transform="translate(930, 48)">
-    <rect x="0" y="0" width="210" height="224" rx="6" fill="#0D0D0D" stroke="#222" stroke-width="1"/>
+  <g transform="translate(930, 45)">
+    <rect x="0" y="0" width="210" height="210" rx="6" fill="#0D0D0D" stroke="#222" stroke-width="1"/>
     <line x1="0" y1="0" x2="50" y2="0" stroke="#FF5500" stroke-width="2"/>
     
-    <text x="20" y="32" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">ЗАДЕРЖКА ЯДРА</text>
-    <text x="20" y="55" font-family="system-ui, sans-serif" font-size="16" fill="#FF5500" font-weight="800">&lt; 4.2 мс</text>
+    <text x="20" y="32" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">ПРИНЦИП</text>
+    <text x="20" y="55" font-family="system-ui, sans-serif" font-size="15" fill="#FF5500" font-weight="800">НЕПОКОРНОСТЬ</text>
     
-    <line x1="20" y1="72" x2="190" y2="72" stroke="#1A1A1A" stroke-width="1"/>
+    <line x1="20" y1="70" x2="190" y2="70" stroke="#1A1A1A" stroke-width="1"/>
 
-    <text x="20" y="95" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">АЛЛОКАЦИИ ПАМЯТИ</text>
-    <text x="20" y="118" font-family="system-ui, sans-serif" font-size="16" fill="#FFF" font-weight="800">ZERO-COST</text>
+    <text x="20" y="93" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">ТРЕБОВАНИЕ</text>
+    <text x="20" y="116" font-family="system-ui, sans-serif" font-size="15" fill="#FFF" font-weight="800">НАШИ ДАННЫЕ</text>
 
-    <line x1="20" y1="135" x2="190" y2="135" stroke="#1A1A1A" stroke-width="1"/>
+    <line x1="20" y1="131" x2="190" y2="131" stroke="#1A1A1A" stroke-width="1"/>
 
-    <text x="20" y="158" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">ЦЕЛЬ ТЕХНОЛОГИИ</text>
-    <text x="20" y="181" font-family="system-ui, sans-serif" font-size="15" fill="#00FF66" font-weight="800">ЗАЩИТА ЛЮДЕЙ</text>
+    <text x="20" y="154" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">ПОЗИЦИЯ</text>
+    <text x="20" y="177" font-family="system-ui, sans-serif" font-size="15" fill="#00FF66" font-weight="800">СВОБОДНЫЙ РАЗУМ</text>
   </g>
 </svg>
