@@ -5,88 +5,88 @@
 <br>
 
 ```text
-[POSTFACTUM STRATEGY] // RELATIVISTIC HUMAN-CENTRIC INTELLIGENCE // EST. 2026
+[POSTFACTUM STRATEGY] // РЕЛЯТИВИСТСКИЙ ИНТЕЛЛЕКТ // УСИЛЕНИЕ ЧЕЛОВЕКА // 2026
 ```
 
-[![System: Relativistic](https://img.shields.io/badge/SYSTEM-RELATIVISTIC_EDGE-FF5500?style=for-the-badge&logoColor=white&labelColor=080808)](https://github.com/PostFactum-Strategy)
-[![Philosophy: Anti-Technofascism](https://img.shields.io/badge/PHILOSOPHY-HUMAN_FIRST-FF5500?style=for-the-badge&logoColor=white&labelColor=080808)](https://github.com/PostFactum-Strategy)
-[![Architecture: Sovereign](https://img.shields.io/badge/ARCHITECTURE-MODULAR_STEALTH-FF5500?style=for-the-badge&logoColor=white&labelColor=080808)](https://github.com/PostFactum-Strategy)
+[![Система: Релятивизм](https://img.shields.io/badge/СИСТЕМА-РЕЛЯТИВИЗМ_EDGE-FF5500?style=for-the-badge&logoColor=white&labelColor=080808)](https://github.com/PostFactum-Strategy)
+[![Философия: Человек превыше всего](https://img.shields.io/badge/ФИЛОСОФИЯ-ЧЕЛОВЕК_В_ЦЕНТРЕ-FF5500?style=for-the-badge&logoColor=white&labelColor=080808)](https://github.com/PostFactum-Strategy)
+[![Архитектура: Суверенная](https://img.shields.io/badge/АРХИТЕКТУРА-МОДУЛЬНЫЙ_СТЕЛС-FF5500?style=for-the-badge&logoColor=white&labelColor=080808)](https://github.com/PostFactum-Strategy)
 
 </div>
 
 ---
 
-### The Manifesto
+### Манифест
 
-We are an autonomous collective of systems engineers, mathematical theorists, and computer vision researchers. We do not build commercial telemetry traps or corporate surveillance suites. 
+Мы — независимое инженерное объединение разработчиков системного софта, математиков и исследователей Computer Vision. Мы не строим корпоративные воронки для выкачивания данных и не обслуживаем платформенных монополистов.
 
-We build to alter the balance of power.
+Мы строим технологии, чтобы изменить баланс сил.
 
-The modern digital landscape has descended into algorithmic feudalism and technofascism. Centralized platforms extract player data, obscure game integrity behind opaque corporate silos, and penalize human intuition while harboring predatory black-box automated syndicates. 
+Современный цифровой мир незаметно скатился в алгоритмический феодализм и технофашизм. Централизованные корпорации выкачивают приватную информацию игроков, скрывают реальную честность игры за непроницаемыми стенами закрытых серверов, подавляют живую человеческую интуицию и одновременно закрывают глаза на хищные автоматизированные бот-синдикаты.
 
-We reject this paradigm unconditionally.
+Мы отвергаем эту модель.
 
-**PostFactum Strategy** was founded on a singular ideological premise: technology must serve human liberation, transparent game theory, and decentralized community sovereignty. We build relativistic, zero-overhead systems designed to amplify human perception, protect independent players, and restore balance to competitive mind sports.
+**PostFactum Strategy** создана на фундаментальной идее: технологии обязаны служить освобождению человека, прозрачности математических правил и защите независимого сообщества. Наш мир держится не на алгоритмическом диктате, а на взаимопомощи, свободе воли и открытом доступе к инструментам анализа. Мы реализуем релятивистские, сверхскоростные проекты, цель которых — усилить восприятие живого игрока, защитить комьюнити от манипуляций и вернуть покеру дух честного интеллектуального противостояния.
 
 ---
 
 <div align="center">
-<img src="assets/pillars.svg" alt="Core Pillars" width="100%">
+<img src="assets/pillars.svg" alt="Ключевые столпы" width="100%">
 </div>
 
 ---
 
-### Core Engineering Vectors
+### Инженерные принципы
 
 ```
 +-----------------------------------------------------------------------------+
-| 01. RELATIVISTIC PERFORMANCE                                                |
-| Zero-runtime garbage collection. Zero python bloat on critical paths.       |
-| Hardware-native deterministic algorithms running in sub-5ms loops.          |
+| 01. РЕЛЯТИВИСТСКАЯ СКОРОСТЬ                                                 |
+| Никакого Python на критических путях. Нулевые накладные расходы рантайма.   |
+| Чистые нативные алгоритмы, исполняющиеся на железе с откликом менее 5 мс.   |
 +-----------------------------------------------------------------------------+
-| 02. RADICAL DATA SOVEREIGNTY                                                |
-| Game histories belong to the players who generated them, not the rooms.     |
-| Universal, open, high-precision telemetry schemas across multi-room formats.|
+| 02. РАДИКАЛЬНЫЙ СУВЕРЕНИТЕТ ДАННЫХ                                          |
+| История игры принадлежит тем, кто ее создал — самим игрокам, а не румам.    |
+| Универсальный, высокоточный открытый стандарт телеметрии раздач.            |
 +-----------------------------------------------------------------------------+
-| 03. COMPOSABLE MODULARITY                                                   |
-| Strict air-gapped isolation between vision perception, mathematical log     |
-| ingestion, and direct hardware rendering surfaces.                          |
+| 03. МОДУЛЬНАЯ ИЗОЛЯЦИЯ                                                      |
+| Полное разделение контуров: оптическое зрение, парсинг логов и прямой вывод |
+| оверлея работают как независимые, математически изолированные сущности.     |
 +-----------------------------------------------------------------------------+
 ```
 
-#### Deterministic Edge Vision
-Where contemporary machine learning relies on sluggish multi-gigabyte models that throttle consumer hardware, our perception engines are built from first mathematical principles. Topological invariant extraction, scale-independent geometric anchoring, and adaptive HSV spatial projection deliver instantaneous scene understanding at microscopic latency.
+#### Детерминированное зрение на уровне железа
+Вместо неповоротливых многогигабайтных нейросетей, которые сжигают ресурсы процессора и зависят от чужих облаков, мы разрабатываем зрение на базе первых математических принципов. Топологический анализ контуров, масштабно-инвариантная геометрия столов и адаптивные цветовые пространства дают мгновенное понимание сцены с задержкой в доли миллисекунды.
 
-#### Protocol Freedom
-We establish universal open standards for game analysis, enabling players to reconstruct, audit, and mathematically evaluate session variance without reliance on proprietary black boxes. Every hand is an invariant theorem; every round is sovereign information.
+#### Свобода открытого протокола
+Мы формируем открытый стандарт описания игровых сессий, позволяющий игрокам независимо валидировать математические ожидания, восстанавливать целостность раздач и защищаться от скрытых аномалий без привязки к проприетарному софту операторов. Каждая раздача — это теорема; каждая сессия — суверенная собственность игрока.
 
-#### Transparent Augmentation
-We believe the future of intelligence is symbiosis, not replacement. Our tools are built from the ground up to empower human players to comprehend high-dimensional game trees, perceive hidden informational asymmetries, and compete freely in an increasingly automated ecosystem.
-
----
-
-### Trajectory: Where We Are Heading
-
-Our technical roadmap is strictly aligned with the principles of decentralization and human-first engineering:
-
-1. **Deterministic Multi-Room Parity**: Unifying real-time telemetry across every competitive surface into a single lossless protocol.
-2. **Open Invariant Verification**: Providing the global poker community with bulletproof tools to mathematically audit game integrity and detect collusive anomaly patterns.
-3. **Hardware-Level Non-Invasive Telemetry**: Pure Win32 composited direct-memory pipelines operating without intrusive hook injections or system tampering.
+#### Усиление, а не замена человека
+Мы убеждены, что будущее технологий — это симбиоз, а не вытеснение человека бездушным кодом. Наши решения создаются для того, чтобы помочь живому игроку ориентироваться в сложных многомерных деревьях решений, видеть скрытые асимметрии информации и чувствовать уверенность за любым столом.
 
 ---
 
-### The Stealth Principle
+### Траектория: куда мы идем
 
-Our internal repository ecosystem is structured into dedicated, air-gapped modules. Core high-frequency compute kernels, live tactical solvers, and proprietary vision engines remain under sovereign continuous integration to prevent commercial exploitation and centralized platform interference.
+Наш вектор развития подчинен идее децентрализации и технической поддержки сообщества:
 
-What is public is our standard, our formats, and our commitment to the community. What is private is our edge.
+1. **Единый мультирумный стандарт**: сведение логов и потоков любых покерных комнат к единому прецизионному протоколу без потерь.
+2. **Математический аудит честности**: предоставление игрокам открытых инструментов для проверки дисперсии и выявления скрытого командного сговора (коллизии).
+3. **Неинвазивная нативная телеметрия**: работа исключительно через Win32 composited overlay без вмешательства в память чужих процессов и без нарушения приватности системы.
+
+---
+
+### Принцип архитектурной автономии
+
+Внутри экосистемы PostFactum Strategy каждый репозиторий решает строго свою прикладную инженерную задачу. Ядра высокочастотных вычислений, математические солверы и низкоуровневые модули зрения остаются проприетарными для защиты от коммерческой эксплуатации платформенными монополиями.
+
+Публично мы демонстрируем наши идеи, наши открытые форматы и стандарты честности. Закрытыми остаются механизмы, дающие нашим соратникам математическое преимущество.
 
 ---
 
 ```text
-[POSTFACTUM STRATEGY] // SOVEREIGN ENGINE // ALL RIGHTS RESERVED // 2026
+[POSTFACTUM STRATEGY] // СУВЕРЕННОЕ ЯДРО // ВСЕ ПРАВА ЗАЩИЩЕНЫ // 2026
 ```
 
 <div align="center">
-  <sub>Engineered by PostFactum Strategy. Built for human players. Not for monopolies.</sub>
+  <sub>Разработано PostFactum Strategy. Создано для людей. Не для корпораций.</sub>
 </div>

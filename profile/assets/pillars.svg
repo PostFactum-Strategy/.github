@@ -14,16 +14,16 @@
   <g transform="translate(10, 10)">
     <rect width="340" height="180" rx="6" fill="url(#cardGrad)" stroke="#222" stroke-width="1"/>
     <line x1="0" y1="0" x2="60" y2="0" stroke="url(#glow)" stroke-width="3"/>
-    <text x="25" y="40" font-family="'JetBrains Mono', monospace" font-size="11" fill="#FF5500" font-weight="700" letter-spacing="2">01 // RELATIVISTIC ENGINE</text>
-    <text x="25" y="70" font-family="'Inter', sans-serif" font-size="18" fill="#FFF" font-weight="800" letter-spacing="1">Sub-Millisecond Edge CV</text>
-    <text x="25" y="105" font-family="'Inter', sans-serif" font-size="12" fill="#888" line-height="1.5">
-      Zero external runtimes. Pure deterministic
+    <text x="25" y="40" font-family="'JetBrains Mono', monospace" font-size="11" fill="#FF5500" font-weight="700" letter-spacing="2">01 // РЕЛЯТИВИЗМ ДВИЖКА</text>
+    <text x="25" y="70" font-family="'Inter', sans-serif" font-size="18" fill="#FFF" font-weight="800" letter-spacing="1">Субмиллисекундный Edge CV</text>
+    <text x="25" y="105" font-family="'Inter', sans-serif" font-size="12" fill="#888">
+      Ноль тяжелых внешних рантаймов.
     </text>
     <text x="25" y="125" font-family="'Inter', sans-serif" font-size="12" fill="#888">
-      topological algorithms executing directly on
+      Чистая детерминированная топология,
     </text>
     <text x="25" y="145" font-family="'Inter', sans-serif" font-size="12" fill="#888">
-      native hardware in &lt; 5ms cycles.
+      работающая на железе за &lt; 5 мс.
     </text>
   </g>
 
@@ -31,16 +31,16 @@
   <g transform="translate(380, 10)">
     <rect width="340" height="180" rx="6" fill="url(#cardGrad)" stroke="#222" stroke-width="1"/>
     <line x1="0" y1="0" x2="60" y2="0" stroke="url(#glow)" stroke-width="3"/>
-    <text x="25" y="40" font-family="'JetBrains Mono', monospace" font-size="11" fill="#FF5500" font-weight="700" letter-spacing="2">02 // HUMAN AUGMENTATION</text>
-    <text x="25" y="70" font-family="'Inter', sans-serif" font-size="18" fill="#FFF" font-weight="800" letter-spacing="1">Anti-Technofascism</text>
+    <text x="25" y="40" font-family="'JetBrains Mono', monospace" font-size="11" fill="#FF5500" font-weight="700" letter-spacing="2">02 // УСИЛЕНИЕ ЧЕЛОВЕКА</text>
+    <text x="25" y="70" font-family="'Inter', sans-serif" font-size="18" fill="#FFF" font-weight="800" letter-spacing="1">Анти-Технофашизм</text>
     <text x="25" y="105" font-family="'Inter', sans-serif" font-size="12" fill="#888">
-      We build to liberate human intuition and
+      Освобождаем интуицию человека и
     </text>
     <text x="25" y="125" font-family="'Inter', sans-serif" font-size="12" fill="#888">
-      level the playing field against predatory
+      уравниваем шансы против хищных
     </text>
     <text x="25" y="145" font-family="'Inter', sans-serif" font-size="12" fill="#888">
-      corporate platforms and black-box rings.
+      корпораций и скрытых бот-сетей.
     </text>
   </g>
 
@@ -48,16 +48,16 @@
   <g transform="translate(750, 10)">
     <rect width="340" height="180" rx="6" fill="url(#cardGrad)" stroke="#222" stroke-width="1"/>
     <line x1="0" y1="0" x2="60" y2="0" stroke="url(#glow)" stroke-width="3"/>
-    <text x="25" y="40" font-family="'JetBrains Mono', monospace" font-size="11" fill="#FF5500" font-weight="700" letter-spacing="2">03 // PROTOCOL FREEDOM</text>
-    <text x="25" y="70" font-family="'Inter', sans-serif" font-size="18" fill="#FFF" font-weight="800" letter-spacing="1">Sovereign Data Schema</text>
+    <text x="25" y="40" font-family="'JetBrains Mono', monospace" font-size="11" fill="#FF5500" font-weight="700" letter-spacing="2">03 // СВОБОДА ПРОТОКОЛА</text>
+    <text x="25" y="70" font-family="'Inter', sans-serif" font-size="18" fill="#FFF" font-weight="800" letter-spacing="1">Суверенные Данные</text>
     <text x="25" y="105" font-family="'Inter', sans-serif" font-size="12" fill="#888">
-      Universal open logging specifications
+      Универсальный открытый стандарт
     </text>
     <text x="25" y="125" font-family="'Inter', sans-serif" font-size="12" fill="#888">
-      (PFS-EHF) that restore absolute ownership
+      (PFS-EHF), возвращающий право на
     </text>
     <text x="25" y="145" font-family="'Inter', sans-serif" font-size="12" fill="#888">
-      of game histories back to the community.
+      историю раздач самому сообществу.
     </text>
   </g>
 </svg>

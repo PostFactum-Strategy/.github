@@ -35,9 +35,9 @@
   <path d="M 1150 280 L 1150 300 L 1130 300" fill="none" stroke="#FF5500" stroke-width="2"/>
 
   <!-- Status pill -->
-  <rect x="70" y="55" width="220" height="24" rx="3" fill="#141414" stroke="#FF5500" stroke-width="1"/>
+  <rect x="70" y="55" width="240" height="24" rx="3" fill="#141414" stroke="#FF5500" stroke-width="1"/>
   <circle cx="85" cy="67" r="4" fill="#FF5500"/>
-  <text x="98" y="71" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10" fill="#FF7700" font-weight="700" letter-spacing="2">SYSTEM: RELATIVISTIC // ONLINE</text>
+  <text x="98" y="71" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10" fill="#FF7700" font-weight="700" letter-spacing="2">СИСТЕМА: РЕЛЯТИВИЗМ // ОНЛАЙН</text>
 
   <!-- Main Title -->
   <text x="70" y="150" font-family="'Inter', 'Helvetica Neue', 'Arial Black', sans-serif" font-size="56" font-weight="900" fill="#FFFFFF" letter-spacing="4">
@@ -46,25 +46,25 @@
 
   <!-- Tagline -->
   <text x="72" y="195" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" font-weight="600" fill="#E0E0E0" letter-spacing="3">
-    AUTONOMOUS GAME INTELLIGENCE <tspan fill="#FF5500">//</tspan> HUMAN AUGMENTATION
+    АВТОНОМНЫЙ ИНТЕЛЛЕКТ ИГРЫ <tspan fill="#FF5500">//</tspan> УСИЛЕНИЕ ЧЕЛОВЕКА
   </text>
 
   <!-- Manifesto Snippet -->
   <text x="72" y="240" font-family="'Inter', -apple-system, sans-serif" font-size="13" font-weight="400" fill="#888888" letter-spacing="1">
-    ENGINEERED FOR FREEDOM. DECENTRALIZED COGNITION AGAINST CORPORATE TECHNOFASCISM.
+    ИНЖЕНЕРИЯ СВОБОДЫ. ДЕЦЕНТРАЛИЗОВАННЫЙ РАЗУМ ПРОТИВ КОРПОРАТИВНОГО ТЕХНОФАШИЗМА.
   </text>
 
   <!-- Right side telemetry graphics -->
   <g transform="translate(950, 75)">
     <rect x="0" y="0" width="180" height="170" rx="4" fill="#0C0C0C" stroke="#222" stroke-width="1"/>
-    <text x="15" y="25" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">LATENCY_CORE</text>
-    <text x="15" y="45" font-family="monospace" font-size="14" fill="#FF5500" font-weight="700">&lt; 4.2 ms</text>
+    <text x="15" y="25" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">ЗАДЕРЖКА_ЯДРА</text>
+    <text x="15" y="45" font-family="monospace" font-size="14" fill="#FF5500" font-weight="700">&lt; 4.2 мс</text>
     
-    <text x="15" y="75" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">ALLOCATION</text>
+    <text x="15" y="75" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">АЛЛОКАЦИИ</text>
     <text x="15" y="95" font-family="monospace" font-size="14" fill="#FFF" font-weight="700">ZERO-COST</text>
 
-    <text x="15" y="125" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">GOVERNANCE</text>
-    <text x="15" y="145" font-family="monospace" font-size="13" fill="#00FF66" font-weight="700">HUMAN FIRST</text>
+    <text x="15" y="125" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">ПРИОРИТЕТ</text>
+    <text x="15" y="145" font-family="monospace" font-size="13" fill="#00FF66" font-weight="700">ЧЕЛОВЕК</text>
     <line x1="0" y1="110" x2="180" y2="110" stroke="#1C1C1C" stroke-width="1"/>
   </g>
 </svg>
