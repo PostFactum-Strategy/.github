@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080808"/>
+      <stop offset="50%" stop-color="#0E0E0E"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF3300"/>
+      <stop offset="50%" stop-color="#FF5500"/>
+      <stop offset="100%" stop-color="#FFAA00"/>
+    </linearGradient>
+    <linearGradient id="glowLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF5500" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FF5500" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#FF7700" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161616" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)" opacity="0.6"/>
+
+  <!-- Geometric accent lines -->
+  <line x1="0" y1="4" x2="1200" y2="4" stroke="url(#orangeGrad)" stroke-width="4"/>
+  <line x1="0" y1="336" x2="1200" y2="336" stroke="#222" stroke-width="2"/>
+  <line x1="100" y1="280" x2="1100" y2="280" stroke="url(#glowLine)" stroke-width="2"/>
+
+  <!-- Cyber frame corner brackets -->
+  <path d="M 50 60 L 50 40 L 70 40" fill="none" stroke="#FF5500" stroke-width="2"/>
+  <path d="M 1150 60 L 1150 40 L 1130 40" fill="none" stroke="#FF5500" stroke-width="2"/>
+  <path d="M 50 280 L 50 300 L 70 300" fill="none" stroke="#FF5500" stroke-width="2"/>
+  <path d="M 1150 280 L 1150 300 L 1130 300" fill="none" stroke="#FF5500" stroke-width="2"/>
+
+  <!-- Status pill -->
+  <rect x="70" y="55" width="220" height="24" rx="3" fill="#141414" stroke="#FF5500" stroke-width="1"/>
+  <circle cx="85" cy="67" r="4" fill="#FF5500"/>
+  <text x="98" y="71" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10" fill="#FF7700" font-weight="700" letter-spacing="2">SYSTEM: RELATIVISTIC // ONLINE</text>
+
+  <!-- Main Title -->
+  <text x="70" y="150" font-family="'Inter', 'Helvetica Neue', 'Arial Black', sans-serif" font-size="56" font-weight="900" fill="#FFFFFF" letter-spacing="4">
+    POSTFACTUM<tspan fill="url(#orangeGrad)">_</tspan>STRATEGY
+  </text>
+
+  <!-- Tagline -->
+  <text x="72" y="195" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" font-weight="600" fill="#E0E0E0" letter-spacing="3">
+    AUTONOMOUS GAME INTELLIGENCE <tspan fill="#FF5500">//</tspan> HUMAN AUGMENTATION
+  </text>
+
+  <!-- Manifesto Snippet -->
+  <text x="72" y="240" font-family="'Inter', -apple-system, sans-serif" font-size="13" font-weight="400" fill="#888888" letter-spacing="1">
+    ENGINEERED FOR FREEDOM. DECENTRALIZED COGNITION AGAINST CORPORATE TECHNOFASCISM.
+  </text>
+
+  <!-- Right side telemetry graphics -->
+  <g transform="translate(950, 75)">
+    <rect x="0" y="0" width="180" height="170" rx="4" fill="#0C0C0C" stroke="#222" stroke-width="1"/>
+    <text x="15" y="25" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">LATENCY_CORE</text>
+    <text x="15" y="45" font-family="monospace" font-size="14" fill="#FF5500" font-weight="700">&lt; 4.2 ms</text>
+    
+    <text x="15" y="75" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">ALLOCATION</text>
+    <text x="15" y="95" font-family="monospace" font-size="14" fill="#FFF" font-weight="700">ZERO-COST</text>
+
+    <text x="15" y="125" font-family="monospace" font-size="10" fill="#666" letter-spacing="1">GOVERNANCE</text>
+    <text x="15" y="145" font-family="monospace" font-size="13" fill="#00FF66" font-weight="700">HUMAN FIRST</text>
+    <line x1="0" y1="110" x2="180" y2="110" stroke="#1C1C1C" stroke-width="1"/>
+  </g>
+</svg>
